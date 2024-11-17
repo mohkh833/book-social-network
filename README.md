@@ -84,10 +84,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## Contact
 
-- **Author**: [Your Name](https://github.com/yourusername)
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-
-Feel free to open issues or pull requests if you have suggestions or encounter any problems! 🚀
